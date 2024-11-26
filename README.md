@@ -1,4 +1,4 @@
-ko<h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
+<h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
 <h3 align="center">A passionate frontend developer .</h3>
 
 - 📫 How to reach me **yashrastogi009@gmail.com**
