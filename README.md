@@ -1,5 +1,5 @@
-<img src=""<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
-   width="300px"/>
+<img src=""<img src="https://www.freepik.com/premium-ai-image/man-is-sitting-desk-with-computer-monitor-front-him_302798410.htm#fromView=keyword&page=1&position=43&uuid=54b4eb95-3235-4a6b-8760-98041e843c44&query=Coding+Gif" width="200px"/>
+
   
 <h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
 <h3 align="center">A passionate frontend developer .</h3>
