@@ -1,4 +1,5 @@
-<img src="https://www.freepik.com/premium-ai-image/man-is-sitting-desk-with-computer-monitor-front-him_302798410.htm#fromView=keyword&page=1&position=43&uuid=54b4eb95-3235-4a6b-8760-98041e843c44&query=Coding+Gif" width="200px"/>
+<img src="![17398142640913941502657351762457](https://github.com/user-attachments/assets/db8072ad-33ac-460a-8908-04129682e998)"
+ width="200px"/>
 
   
 <h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
