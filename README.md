@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200px"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300px"/>
   
 <h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
 <h3 align="center">A passionate frontend developer .</h3>
