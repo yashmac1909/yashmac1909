@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif"
- width="200px"/>
+ width="300px"/>
 
   
 <h1 align="center">Hi 👋, I'm Yash Rastogi</h1>
